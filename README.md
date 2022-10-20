@@ -35,10 +35,6 @@ Please refer to the MIT license in this repo
 
 ---
 
-## Features
-
-If your project has a lot of features, list them here.
-
 ## Tests
 
 If you refresh the webpage the thing that we will want to study.
