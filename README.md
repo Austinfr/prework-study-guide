@@ -37,4 +37,4 @@ Please refer to the MIT license in this repo
 
 ## Tests
 
-If you refresh the webpage the thing that we will want to study.
+If you refresh the webpage it will display the thing that we will want to study.
